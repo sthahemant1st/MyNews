@@ -1,0 +1,2 @@
+com/hemant/mynews/BuildConfig.java
+ com.hemant.mynews.BuildConfig
